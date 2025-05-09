@@ -1,0 +1,13 @@
+1,2c1
+< STARWARS
+< Episode IV, A NEW HOPE It is a period of civil war.
+---
+> Episode IV, a new hope It is a period of civil war.
+6c5
+< During the battle, Rebel spies managed to steal secret plans to the Empire' ultimate weapon, the DEATH STAR, an armored space station with enough power to destroy an entire planet.
+---
+> During the battle, Rebel spies managed to steal secret plans to the Empire' ultimate weapon, the death star, an armored space station with enough power to destroy an entire planet.
+8c7
+< Pursued by the Empire's sinister agents, Princess Leia races home aboard he starship, custodian of the stolen plans that can save her people and restore freedom to the galaxy...
+---
+> Pursued by the Empire's sinister agents, Princess Leia races home aboard he starship, custodian of the stolen plans that can save her people and restore freedom to the galaxy
