@@ -106,3 +106,9 @@ int	main(void) ->
 
 para compilar o projeto precisa usar o seguinte comando e as flags
 gcc -Wall -Wextra -Werror nome-do-arquivo.c -o nome-do-arquivo
+
+
+comandos git:
+git remote add nome_da_branch url_repositorio + git remote + git push novo_nome_da_branch = para enviar os arquivos para a intra sem precisar clonar uma outra pasta 
+
+git log = para ver se a pessoa configurou o git config user.email com o email da intra
