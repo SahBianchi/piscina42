@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strcpy.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: salopes- <salopes-@student.42.fr>          +#+  +:+       +#+        */
+/*   By: sambia-onerpm <sambia-onerpm@student.42    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/07 15:07:09 by salopes-          #+#    #+#             */
-/*   Updated: 2025/06/07 19:51:56 by salopes-         ###   ########.fr       */
+/*   Updated: 2025/06/09 16:19:49 by sambia-oner      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,11 +26,11 @@ char	*ft_strcpy(char *dest, char *src)
 	return (dest);
 }
 
-int main(void)
-{
-	char src;
-	char dest[10];
+// int main(void)
+// {
+// 	char src[] = "Samantha";
+// 	char dest[8];
 
-	ft_strcpy(dest, src);
-	printf("%s\n", dest);
-}
+// 	ft_strcpy(dest, src);
+// 	printf("%s\n", dest);
+// }
