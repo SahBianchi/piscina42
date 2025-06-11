@@ -6,11 +6,11 @@
 /*   By: sambia-onerpm <sambia-onerpm@student.42    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/11 14:06:41 by sambia-oner       #+#    #+#             */
-/*   Updated: 2025/06/11 14:08:06 by sambia-oner      ###   ########.fr       */
+/*   Updated: 2025/06/11 16:42:08 by sambia-oner      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
+// #include <stdio.h>
 
 char	*ft_strupcase(char *str)
 {
@@ -28,11 +28,11 @@ char	*ft_strupcase(char *str)
 	return (str);
 }
 
-int main()
-{
-    char texto[] = "SAMAntha";
-    printf("Antes: %s\n", texto);
-    ft_strupcase(texto);
-    printf("Depois: %s\n", texto);
-    return 0;
-}
+// int main()
+// {
+//     char texto[] = "SAMAntha";
+//     printf("Antes: %s\n", texto);
+//     ft_strupcase(texto);
+//     printf("Depois: %s\n", texto);
+//     return 0;
+// }
