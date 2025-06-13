@@ -1,0 +1,9 @@
+Nome da tarefa: odd
+ficheiros esperados: odd.c
+funções permitidas: write
+
+Escreva um programa que exiba todos os digitos impares de 0 a 10, seguidos por uma quebra de linha('\n')
+
+exemplo:
+$>./odd
+$>13579

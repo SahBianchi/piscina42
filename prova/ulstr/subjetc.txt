@@ -1,0 +1,10 @@
+nome da tarfe: ulstr
+ficheiros esperados: ulstr.c
+funções permitidas: write
+
+escreva um programa que receba uma string e que transforme todas as suas minusculas em maiusculas e todas as suas maiusculas em minusculas, os outros caracteres permanecem inalterados, deve ser exibido o resultado seguindo de '\n'.
+Se o numero de parametro não for de 1, o programa deve exibir '\n'.
+
+exemplos:
+$> ./ulstr "PeTEr PIpeR pICKeD A PeCK of pIckLED PEPPers" | cat -e
+$> "pEtEr piPEr PIckEd a pEck OF PiCKled peppERS"
